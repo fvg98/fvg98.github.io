@@ -1,0 +1,59 @@
+title: <b>Cristián Apellido</b><br/>Assistant Professor of Economics at ITAM
+
+description: 
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+production_url: https://fvg98.github.io/cristian     
+BASE_PATH: https://fvg98.github.io/cristian
+
+#url: "https://fvg98.github.io/cristian"
+
+author:
+    name:
+    facebook:
+    scholar:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics:
+    provider: false
+    statcounter:
+        sc_project  :
+        sc_security :
+        sc_invisible: 1
+        sc_text     : 2
+    google:
+        tracking_id: ''
+    getclicky:
+      site_id:
+    mixpanel:
+        token: ''
+    piwik:
+        baseURL: '' # Piwik installation address (without protocol)
+        idsite: ''  # the id of the site on Piwik
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments:
+    provider: false
+    disqus:
+      short_name:
+    livefyre:
+      site_id:
+    intensedebate:
+      account:
+    facebook:
+      appid:
+      num_posts: 5
+      width: 580
+      colorscheme: light
