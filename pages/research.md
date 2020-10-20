@@ -28,5 +28,5 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * To Profit or not to Profit? Looking at the Production Function of For-Profit and Nonprofit Schools
 
-* Gender Discrimination in the Teaching Profession**  
+* Gender Discrimination in the Teaching Profession  
 *(with Miguel Sarzosa)*
