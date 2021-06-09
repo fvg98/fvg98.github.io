@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;b&gt;Cristián Apellido&lt;/b&gt;&lt;br/&gt;Assistant Professor of Economics at ITAM</title>
+    <title>&lt;b&gt;Cristián Sánchez&lt;/b&gt;&lt;br/&gt;Assistant Professor of Economics at ITAM</title>
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jun 2021 09:28:03 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Jun 2021 09:28:03 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Jun 2021 14:13:45 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Jun 2021 14:13:45 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
   </channel>

@@ -1,14 +1,14 @@
-title: <b>Cristián Apellido</b><br/>Assistant Professor of Economics at ITAM
+title: <b>Cristián Sánchez</b><br/>Assistant Professor of Economics at ITAM
 
 description: 
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-production_url: https://fvg98.github.io/cristian     
-BASE_PATH: https://fvg98.github.io/cristian
+production_url: https://cristsanchez.github.io/cristian     
+BASE_PATH: https://cristsanchez.github.io/cristian
 
-#url: "https://fvg98.github.io/cristian"
+#url: "https://cristsanchez.github.io"
 
 author:
     name:
