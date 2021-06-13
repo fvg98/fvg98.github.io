@@ -1,9 +1,0 @@
-
-/feed.xml
-/
-/css/main.css
-/research/
-/sitemap.txt
-/teaching/
-/css/main.css.map
-

@@ -57,3 +57,9 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+# Sitemap
+url: "https://cristsanchez.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
