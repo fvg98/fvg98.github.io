@@ -7,11 +7,11 @@ title: Research
 
 ###  Working Papers:  
 
-* <a href="files/educated_leaders.pdf" target="_blank">**The Effects of Educated Leaders on Policy and Politics: Quasi-experimental Evidence from Brazil**</a> *submitted*
+* <a href="files/educated_leaders.pdf" target="_blank">**The Effects of Educated Leaders on Policy and Politics: Quasi-experimental Evidence from Brazil**</a> *submitted*  
 *(with Paulo Bastos)*
 
-* <a href="files/main.pdf" target="_blank">**Supply-side Responses to Targeted Vouchers**</a>  
-*(with Gabriel Cañedo)* *submitted*
+* <a href="files/supply_side.pdf" target="_blank">**Supply-side Responses to Targeted Vouchers**</a> *submitted*  
+*(with Gabriel Cañedo)* 
 
 * <a href="files/Vouchers.pdf" target="_blank">**Understanding School Competition Under Voucher Regimes**</a>  
 Coverage: <a href="https://www.washingtonexaminer.com/opinion/regulations-are-keeping-the-best-private-schools-out-of-school-voucher-programs" target="_blank">Washington Examiner</a>
