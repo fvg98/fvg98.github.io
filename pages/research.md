@@ -7,6 +7,12 @@ title: Research
 
 ###  Working Papers:  
 
+* <a href="files/educated_leaders.pdf" target="_blank">**The Effects of Educated Leaders on Policy and Politics: Quasi-experimental Evidence from Brazil**</a> *submitted*  
+*(with Paulo Bastos)*
+
+* <a href="files/supply_side.pdf" target="_blank">**Supply-side Responses to Targeted Vouchers**</a> *submitted*  
+*(with Gabriel Cañedo)* 
+
 * <a href="files/Vouchers.pdf" target="_blank">**Understanding School Competition Under Voucher Regimes**</a>  
 Coverage: <a href="https://www.washingtonexaminer.com/opinion/regulations-are-keeping-the-best-private-schools-out-of-school-voucher-programs" target="_blank">Washington Examiner</a>
 
@@ -18,14 +24,14 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * <a href="files/Schooling_Labor_Vouchers.pdf" target="_blank">**The Schooling and Labor Market Effects of Vouchers**</a>  
 *(with Tomás Rau and Sergio Urzúa)*
 
+<<<<<<< HEAD
 * <a href="files/Supply-side-responses-Cañedo-Montesinos.pdf" target="_blank">**Supply-side Responses to Targeted Vouchers**</a>  
 *(with Gabriel Cañedo)*
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT" target="_blank">Development Impact</a>
 
+=======
+>>>>>>> cf79d0223d7aa56cbabb9b5562ad204a059aaf74
 ### Work in Progress:  
-
-* <a href="files/Leaders_Ed.pdf" target="_blank">**Does Leaders’ Education Matter? Quasi-experimental Evidence from Brazil**</a>  
-*(with Paulo Bastos and Anshuman Tiwari)*
 
 * To Profit or not to Profit? Looking at the Production Function of For-Profit and Nonprofit Schools
 
