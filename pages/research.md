@@ -14,8 +14,7 @@ title: Research
 *(with Gabriel Cañedo)*  
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT" target="_blank">Development Impact</a>
 
-* <a href="files/Vouchers.pdf" target="_blank">**Understanding School Competition Under Voucher Regimes**</a>  
-Coverage: <a href="https://www.washingtonexaminer.com/opinion/regulations-are-keeping-the-best-private-schools-out-of-school-voucher-programs" target="_blank">Washington Examiner</a>
+* <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a> *submitted*
 
 * Skipping your Exam? The Unexpected Response to a Targeted Voucher Policy  
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-round-neudc-2019" target="_blank">Development Impact</a>
