@@ -10,5 +10,5 @@ I am an assistant professor in economics at CIE and the Department of Economics 
 
 My research interest is in the intersection of public economics, education economics, and industrial organization.
 
-<a href="assets/files/CV_CASM.pdf" target="_blank">C.V.</a>  
+<a href="assets/files/CV_CSanchez.pdf" target="_blank">C.V.</a>  
 email: cristian.sanchez [at] itam [dot] mx
