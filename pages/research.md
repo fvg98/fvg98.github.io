@@ -12,7 +12,7 @@ title: Research
 
 ###  Working Papers:  
 
-* <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a> *submitted*
+* <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a> Revise and Resubmit at *Journal of Political Economy*
 
 * <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a>  
 *(with Gabriel Cañedo Riedel)*  
