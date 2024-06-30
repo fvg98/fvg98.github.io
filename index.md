@@ -8,7 +8,7 @@ permalink: /
 
 I am a Senior Economist at the Central Bank of Chile.
 
-My research interest is in the intersection of public economics, industrial organization, and applied finance.
+I am an applied microeconomist specializing in public economics, industrial organization, and the economics of education, with a focus on the Latin American context.
 
 <a href="assets/files/CV_CristianSanchez.pdf" target="_blank">C.V.</a>  
 email: csanchez@bcentral.cl

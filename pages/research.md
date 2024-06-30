@@ -7,12 +7,12 @@ title: Research
 
 ###  Publications:  
 
-* <a href="files/educated_leaders.pdf" target="_blank">**The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil**</a> Accepted at *Latin American Economic Review*  
+* <a href="https://www.latinaer.org/index.php/laer/article/view/198" target="_blank">**The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil**</a> *Latin American Economic Review*, Vol. 33, 2024  
 *(with Paulo Bastos)*
 
 ###  Working Papers:  
 
-* <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a> Revise and Resubmit at *Journal of Political Economy*
+* <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a> Revision requested at *Journal of Political Economy*
 
 * <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a>  
 *(with Gabriel Cañedo Riedel)*  
@@ -24,6 +24,12 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * <a href="files/For_Prof.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Schools on Academic Performance: Evidence from Chile**</a>
 
 ### Work in Progress:  
+
+* Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment  
+*(with Adam Kapor and Christopher Neilson)*
+
+* Risk-shifting Incentives Under Government Credit Guarantees  
+*(with Ramiro de Elejalde and Patricio Toro)*
 
 * The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile.
 
@@ -42,5 +48,5 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * Predicting Missing Geographic Coordinates  
 *(with Gabriel Cañedo Riedel)*
 
-* The Gender Wage Gap in the Teaching Profession  
-*(with Miguel Sarzosa)*
+* Gender Wage Gap in the Teaching Profession: Evidence from Two Countries  
+*(with Paola Bordón, Roberto Gillmore and Miguel Sarzosa)*
